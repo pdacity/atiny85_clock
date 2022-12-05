@@ -6,16 +6,15 @@
 
 Для отображения взял Oled дисплей 128х64 I2C синий c жёлтым. Для корпуса использовал пластик от канцелярского планшета (он попался под руку и был треснут, поэтому разрезал его на часы).
 
-![IMG1](https://ci.malinin.com/AVR/atiny85_clock/raw/branch/main/f407072549.jpg)
-![IMG2](https://ci.malinin.com/AVR/atiny85_clock/raw/branch/main/1df1badd9e.jpg)
+![IMG1](https://github.com/pdacity/atiny85_clock/blob/main/f407072549.jpg)
+![IMG2](https://github.com/pdacity/atiny85_clock/blob/main/1df1badd9e.jpg)
 
 
 Для установки времени подключил две кнопки, а также датчик температуры DS18B20. Собрал все на маленьком обрезке монтажной платы.
 
 ### Подключение следующим образов
 
-![IMG3](https://ci.malinin.com/AVR/atiny85_clock/raw/branch/main/Arduino-ATtiny85-3.970.jpg)
-
+![изображение](https://user-images.githubusercontent.com/30793797/205749261-058e71fb-9f31-4a05-97c0-c9b0fdff2661.png)
 
 | ATINY85 | OLED |
 |--------|--------|
